@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=id\ colour
+comment0.target=Square(int,\ java.lang.String)
+comment1.params=player
+comment1.target=void\ move(Player)
+numComments=2

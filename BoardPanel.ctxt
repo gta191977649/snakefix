@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=game
+comment0.target=BoardPanel(Game)
+comment1.target=void\ setup()
+comment2.target=void\ build()
+comment3.params=g
+comment3.target=void\ paintComponent(Graphics)
+comment3.text=paintComponent\ -\ overrides\ parent\ method\nredraws\ all\ the\ images\ on\ screen\n\n
+comment4.params=position
+comment4.target=int\ getX(int)
+comment5.params=position
+comment5.target=int\ getY(int)
+comment6.target=void\ update()
+numComments=7
